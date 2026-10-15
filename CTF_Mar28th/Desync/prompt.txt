@@ -1,0 +1,8 @@
+Desync
+50
+ 0  0
+The Animus relies on proper synchronization between the user and stored genetic memories. A slight desynchronization causes instability - but a precise desync of the SYNC_LEVEL variable exposes internal diagnostics never meant to be seen. Your task is to understand how the binary reacts to its environment and manipulate it without modifying the binary itself. Restore the synchronization to uncover the hidden flag.
+
+A colleague of yours tried it with 5 numbers and gave up. Will you give up too?
+
+Challenge by: Ajith S P

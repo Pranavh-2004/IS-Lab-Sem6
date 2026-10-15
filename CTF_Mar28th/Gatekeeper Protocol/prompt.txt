@@ -1,0 +1,10 @@
+Gatekeeper Protocol v2.0
+50
+ 0  0
+Haven't you already solved this? 🤔 Just try once again 😈
+
+The 'Gatekeeper Protocol' is a Stark Industries internal authentication mechanism designed to protect restricted systems. Bypass the protocol and gain unauthorized access without valid credentials.
+
+Stark Network
+
+Challenge by: Ajith S P

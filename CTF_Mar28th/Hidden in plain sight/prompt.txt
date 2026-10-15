@@ -1,0 +1,6 @@
+Hidden in plain sight
+50
+ 0  0
+Intel sources have recovered a file from an unknown enemy. Can you analyze the file and get the flag?
+
+Challenge by: Ajith S P

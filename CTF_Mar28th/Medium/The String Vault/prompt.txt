@@ -1,0 +1,6 @@
+The String Vault
+100
+ 0  0
+Our newest hire just discovered printf() and now uses it for everything logging, errors, security and probably emotional support because “user input should feel heard.” The server is now leaking more than corporate gossip; connect to the service and prove why “it works on my machine” is not a security strategy.
+
+Challenge author: Fallen

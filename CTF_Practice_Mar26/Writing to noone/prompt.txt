@@ -1,0 +1,4 @@
+Writing to noone
+1000
+ 0  0
+The program is writing something, but can you see it?

@@ -1,0 +1,6 @@
+Banished File
+1000
+ 0  0
+The image talks about this file in history class.
+
+ghcr.io/aathreyada/deletion:latest

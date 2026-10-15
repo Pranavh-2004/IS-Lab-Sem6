@@ -1,0 +1,6 @@
+Forgotten Page
+1000
+ 0  0
+404: NOT_FOUND_TODAY, maybe try tomorrow, or yesterday.
+
+https://forgotten-page.vercel.app/

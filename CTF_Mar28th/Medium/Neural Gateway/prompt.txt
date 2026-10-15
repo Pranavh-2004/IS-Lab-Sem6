@@ -1,0 +1,8 @@
+Neural Gateway
+100
+ 0  0
+NeuralGateway is an enterprise AI platform. Submit any document with an instruction and our cutting-edge AI will analyze it for you. Our safety systems ensure no harmful instructions can reach internal services.
+
+Service URL: https://pesuctfd-neuralgateway.chals.io/
+
+Author: Optimus

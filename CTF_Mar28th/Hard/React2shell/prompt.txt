@@ -1,0 +1,12 @@
+Server-side rendering isn’t always safe when boundaries blur. Check CVE-2025-55182.
+
+React2shell
+200
+ 0  0
+This is a modern, server-side deserialization attack. If you don't understand how Next.js fetches data at the protocol level, don't even bother trying. Good luck. You're going to need it.
+
+Target: https://react2shell-ebon.vercel.app
+
+Author:Vamsi
+
+Flag

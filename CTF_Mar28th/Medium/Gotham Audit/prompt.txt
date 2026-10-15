@@ -1,0 +1,21 @@
+Gotham Audit
+100
+ 0  0
+Wayne Enterprises has deployed Sentinel, an internal compliance and audit portal used to manage sensitive Gotham infrastructure reports.
+
+All known vulnerabilities have been patched. The system passed automated scans. Manual audit access is tightly controlled.
+
+Your task is to assess whether workflow enforcement is truly secure.
+
+This is not a vulnerability scanning challenge.
+No exploitation of outdated software is required.
+Focus on how the website URL behaves.
+You need to generate a report.
+
+Credentials provided for audit purposes.
+Username: auditor
+Password: wayne123
+
+Sentinel
+
+Challenge by: Ajith S P

@@ -1,0 +1,10 @@
+Multiple Personality Disorder
+200
+ 0  0
+An extraordinary application was recovered from Vought Industries. It is believed that this application was created by the supe Proxy, who was known to take multiple forms. Can you analyze the binary to get the flag?
+
+For starters, the application gave something when it was run in some MODE.
+
+Proxy's last words: =Oracle, awakening, 8 chars
+
+Challenge by: Ajith S P

@@ -1,0 +1,12 @@
+The 9 CGPA HookFilter Web
+100
+ 0  0
+Your perfect grades are adorable, but the real world doesn't have a rubric. You can prompt well but how far can AI really take you (?)
+
+But ask yourself this; if a payload executes in a browser and you don't have anything listening on the outside to catch it... did it even make a sound?
+
+Welcome to the trenches, Valedictorian. Let's see what you made of <3
+
+Challenge author: Fallen
+
+https://pesuctfd-frawnshu.chals.io/

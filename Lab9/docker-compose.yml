@@ -1,0 +1,39 @@
+version: '3'
+
+services:
+  target_1:
+    build:
+      context: .
+      dockerfile: Dockerfile.target_1
+    container_name: target_machine_1
+    networks:
+      wormnet:
+        ipv4_address: 172.22.0.2
+        
+  target_2:
+    build:
+      context: .
+      dockerfile: Dockerfile.target_2
+    container_name: target_machine_2
+    networks:
+      wormnet:
+        ipv4_address: 172.22.0.4
+
+  attacker:
+    build:
+      context: .
+      dockerfile: Dockerfile.attacker
+    container_name: attacker_machine
+    networks:
+      wormnet:
+        ipv4_address: 172.22.0.3
+    stdin_open: true
+    tty: true
+
+networks:
+  wormnet:
+    name: wormnet_lab        
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.22.0.0/16

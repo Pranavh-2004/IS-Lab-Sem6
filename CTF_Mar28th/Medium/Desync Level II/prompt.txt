@@ -1,0 +1,13 @@
+Desync Level II
+100
+ 0  0
+The Animus has evolved.
+
+What once relied on a single synchronization variable now depends on multiple environmental factors. Not all variables behave as expected — some are processed internally, others are silently trusted.
+
+Understanding how the system interprets its environment is key.
+
+Find the right balance. Restore synchronization. Reveal what was meant to stay hidden.
+
+Challenge by: Ajith S P
+

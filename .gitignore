@@ -1,0 +1,68 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Claude Code / CTF tooling (not coursework)
+.claude/
+.agents/
+skills/
+skills-lock.json
+
+# Archives (lab setup bundles, Docker image tarballs, malware samples)
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.tgz
+
+# Compiled binaries / build artifacts
+*.o
+*.out
+a.out
+*.bin
+*.so
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and local outputs
+*.log
+*.tmp
+output/
+results/
+
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.csr
+secrets/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows / Linux
+Thumbs.db
+desktop.ini
+*~

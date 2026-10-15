@@ -1,0 +1,6 @@
+Vault
+200
+ 0  0
+I built the ultimate secure vault. After last year's breach, I completely disconnected it from the internet, enabled all modern compiler protections, and chunked the locking mechanism into three discrete layers. Even if you somehow bypass the stack security, you'd still need to forge the cryptographic keys in memory just to trigger the decryption routine! Good luck.
+
+Author: Optimus
